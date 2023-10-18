@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [izuportfolio.netlify.app](izuportfolio.netlify.app)
 
-- 📝 I regularly write articles on [https://medium.com/@izuchukwuobi997](https://medium.com/@izuchukwuobi997)
+- 📝 I regularly write articles on [https://medium.com/@izustix](https://medium.com/@izuchukwuobi997)
 
 - 💬 Ask me about **TypeScript, Express, React, Backend, Mobile, and Frontend development**
 
