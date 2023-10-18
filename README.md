@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [izuportfolio.netlify.app](izuportfolio.netlify.app)
 
-- 📝 I regularly write articles on [https://medium.com/@izustix](https://medium.com/@izuchukwuobi997)
+- 📝 I regularly write articles on [https://medium.com/@izustix](https://medium.com/@izustix)
 
 - 💬 Ask me about **TypeScript, Express, React, Backend, Mobile, and Frontend development**
 
@@ -22,7 +22,7 @@
 <a href="https://codepen.io/izustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="izustic" height="30" width="40" /></a>
 <a href="https://twitter.com/izustixoflyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izustixoflyf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/izustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izustic" height="30" width="40" /></a>
-<a href="https://medium.com/@izuchukwu_obi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@izuchukwu_obi" height="30" width="40" /></a>
+<a href="https://medium.com/@izustix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@izuchukwu_obi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
