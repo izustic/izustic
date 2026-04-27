@@ -9,7 +9,7 @@
 **`// full-stack developer · TypeScript · React · Node.js`**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-izuobi.netlify.app-1d4ed8?style=for-the-badge&logo=netlify&logoColor=60a5fa&labelColor=07162b)](https://izuobi.netlify.app)
-[![Email](https://img.shields.io/badge/Email-izuchukwuobi%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=60a5fa&labelColor=07162b)](mailto:izuchukwuobi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-izuchukwuobi997%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=60a5fa&labelColor=07162b)](mailto:izuchukwuobi@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Articles-1d4ed8?style=for-the-badge&logo=medium&logoColor=60a5fa&labelColor=07162b)](https://medium.com/@izustix)
 
 </div>
