@@ -1,13 +1,13 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://izuportfolio.netlify.app/)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://izuobi.netlify.app/)
 <h1 align="center">Hi 👋, I'm Izuchukwu Obi</h1>
 <h3 align="center">A full stack developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izustic" alt="izustic" /></a> </p>
 
-- 🔭 I’m currently working on [Sell It](https://github.com/izustic/sell-it)
+- 🔭 I’m currently working on [Socio](https://github.com/izustic/socio)
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [izuportfolio.netlify.app](izuportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [izuobi.netlify.app](izuportfolio.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@izustix](https://medium.com/@izustix)
 
